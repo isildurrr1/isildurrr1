@@ -27,3 +27,6 @@
     <p align='center'>
     📫 How to reach me: <a href='mailto:andreygaranin.0@yandex.ru'>andreygaranin.0@yandex.ru</a>
     </p>
+    <p align='right'>
+        <img src="https://komarev.com/ghpvc/?username=isildurrr1&style=flat-square&color=blue" alt=""/>
+    </p>
