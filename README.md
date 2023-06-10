@@ -14,6 +14,7 @@
     <h3>🧰 My opensource projects</h3>
     <ul>
       <li><a href="https://github.com/isildurrr1/mesto"><b>Mesto.</b></a> Service Mesto: an interactive page where you can add photos, delete them and put likes.</li>
+      <li><a href="https://github.com/isildurrr1/todos-react"><b>todos-react.</b></a> Task scheduler with weather.</li>
       <li><a href="https://github.com/isildurrr1/russian-travel"><b>Traveling in Russia.</b></a> In this project, the user is invited to go on a trip to Russia. The user will receive answers to the questions: "What is interesting in our country?", "What is it famous for?" and "Which places can I visit?"</li>
       <li><a href="https://github.com/isildurrr1/how-to-learn"><b>Learn to learn.</b></a> A typical one-page site about modern and effective approaches to learning.</li>
       <li><a href="https://github.com/isildurrr1/Card_Memory_Game"><b>Card Memory Game.</b></a> Memory game in the browser where the player needs to find two identical cards.</li>
