@@ -26,6 +26,9 @@
       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=isildurrr1&layout=compact"/>
     </p>
     <p align='center'>
+        <img src="https://www.codewars.com/users/isildurrr/badges/small"/>
+    </p>
+    <p align='center'>
     📫 How to reach me: <a href='mailto:andreygaranin.0@yandex.ru'>andreygaranin.0@yandex.ru</a>
     </p>
     <p align='right'>
