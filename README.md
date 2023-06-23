@@ -27,8 +27,8 @@
     </ul>
     <h3>⛹️ My activity</h3>
     <p align='center'>
-      <img height=150 src="https://github-readme-stats-sigma-five.vercel.app/api?username=isildurrr1&show_icons=true&count_private=true"/>
-      <img height=150 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isildurrr1&layout=compact"/>
+      <img height=150 src="https://github-readme-stats.vercel.app/api?username=isildurrr1&show_icons=true&count_private=true"/>
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=isildurrr1&layout=compact"/>
     </p>
     <p align='center'>
         <img src="https://www.codewars.com/users/isildurrr/badges/small"/>
