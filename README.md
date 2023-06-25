@@ -25,6 +25,13 @@
       <li><a href="https://github.com/isildurrr1/Card_Memory_Game"><b>Card Memory Game.</b></a> Memory game in the browser where the player needs to find two identical cards.</li>
       <li><a href="https://github.com/isildurrr1/matrix_library"><b>matrix_library.</b></a> Library for operations with matrices.</li>
     </ul>
+    <h3>🎓 Frontend Mentor | Challenges</h3>
+    <a href="https://www.frontendmentor.io/profile/isildurrr1"><b>My profile</b></a>
+    <ul>
+        <li><a href="https://github.com/isildurrr1/interactive-rating-component"><b>Interactive rating component</b></a> | TypeScript, React, Redux, Sass</li>
+        <li><a href="https://github.com/isildurrr1/product-preview-card-component"><b>Product preview card component</b></a> | TypeScript, React, Sass</li>
+        <li><a href="https://github.com/isildurrr1/result-summary-component"><b>Results summary component.</b></a> | HTML, CSS</li>
+    </ul>
     <h3>⛹️ My activity</h3>
     <p align='center'>
       <img height=150 src="https://github-readme-stats.vercel.app/api?username=isildurrr1&show_icons=true&count_private=true"/>
