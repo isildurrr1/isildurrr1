@@ -31,6 +31,7 @@
         <li><a href="https://github.com/isildurrr1/interactive-rating-component"><b>Interactive rating component</b></a> | TypeScript, React, Redux, Sass</li>
         <li><a href="https://github.com/isildurrr1/product-preview-card-component"><b>Product preview card component</b></a> | TypeScript, React, Sass</li>
         <li><a href="https://github.com/isildurrr1/result-summary-component"><b>Results summary component.</b></a> | HTML, CSS</li>
+        <li><a href="https://github.com/isildurrr1/age-calculator-app"><b>Age calculator app</b></a> | TypeScript, React, Styled Components</li>
     </ul>
     <h3>⛹️ My activity</h3>
     <p align='center'>
